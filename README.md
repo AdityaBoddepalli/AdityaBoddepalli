@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+I am Aditya, a second-year undergraduate student at Northeastern University majoring in Computer Science. My primary interests lie in web and app development, AI, and ML; nonetheless I am excited to learn about any new technologies and developments in the field of CS. Furthermore, I am passionate about consumer technology and entrepreneurship and aspire to build my career in that field.
+
+- 🔭 I’m currently looking for full time co-ops for Fall 2023.
+- 🌱 I’m currently learning Golang
+- 👨‍💻 Check out my [website](https://adityaboddepalli.com)
+- 💬 Chat with my bot, [Zero](https://adityaboddepalli.com/zero)
+- 📫 How to reach me: adityaboddepalli0@gmail.com
+- 😄 Pronouns: he/him/his
+- ⚡ Fun fact: I am a polyglot
+
 <!--
 **Tony-Stark93/Tony-Stark93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
