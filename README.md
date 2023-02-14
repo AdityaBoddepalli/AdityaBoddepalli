@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Aditya, a second-year undergraduate student at Northeastern University majoring in Computer Science. My primary interests lie in web and app development, AI, and ML; nonetheless I am excited to learn about any new technologies and developments in the field of CS. Furthermore, I am passionate about consumer technology and entrepreneurship and aspire to build my career in that field.
+I am Aditya, a second-year undergraduate student at Northeastern University majoring in Computer Science. My primary interests lie in full stack development, cloud computing, and ML; nonetheless I am excited to learn about any new technologies and developments in the field of CS. Furthermore, I am passionate about consumer technology and entrepreneurship and aspire to build my career in that field.
 
 - 🔭 I’m currently looking for full time co-ops for Fall 2023.
 - 🌱 I’m currently learning Golang
