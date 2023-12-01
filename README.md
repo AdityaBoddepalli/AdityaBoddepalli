@@ -2,7 +2,7 @@
 
 I am Aditya, a second-year undergraduate student at Northeastern University majoring in Computer Science. My primary interests lie in full stack development, cloud computing, and ML; nonetheless I am excited to learn about any new technologies and developments in the field of CS. Furthermore, I am passionate about consumer technology and entrepreneurship and aspire to build my career in that field.
 
-- 🔭 I’m currently looking for full time internships for Summer 2024.
+- 🔭 I’m currently looking for full time internships/coops for Summer and Fall 2024.
 - 🌱 I’m currently exploring software product management.
 - 👨‍💻 Check out my [website](https://adityaboddepalli.com)
 - 💬 Chat with my bot, [Zero](https://adityaboddepalli.com/zero)
