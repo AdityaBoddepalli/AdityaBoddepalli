@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Aditya, a third-year undergraduate student at Northeastern University pursuing a Bachelor of Science in Computer Science. My primary interests lie in full stack development, cloud computing, and ML; nonetheless I am excited to learn about any new technologies and developments in the field of CS. Furthermore, I am passionate about consumer technology and entrepreneurship and aspire to build my career in that field.
+I am Aditya, a fourth-year undergraduate student at Northeastern University pursuing a Bachelor of Science in Computer Science. My primary interests lie in Cloud Computing, Backend Systems, and Artificial Intelligence; nonetheless I am excited to learn about any new technologies and developments in the field of CS. Furthermore, I am passionate about consumer technology and entrepreneurship and aspire to build my career in that field.
 
 - 🔭 I’m currently looking for new grad software engineering roles starting Spring 2025.
 - 🌱 I’m currently exploring Distributed Systems.
