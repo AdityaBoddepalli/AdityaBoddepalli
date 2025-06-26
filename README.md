@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-I am Aditya, a fourth-year undergraduate student at Northeastern University pursuing a Bachelor of Science in Computer Science. My primary interests lie in Cloud Computing, Backend Systems, and Artificial Intelligence; nonetheless I am excited to learn about any new technologies and developments in the field of CS. Furthermore, I am passionate about consumer technology and entrepreneurship and aspire to build my career in that field.
+I am Aditya, Computer Science graudate from Northeastern University. My primary interests lie in Cloud Computing, Backend Systems, and Artificial Intelligence; nonetheless I am excited to learn about any new technologies and developments in the field of CS. Furthermore, I am passionate about consumer technology and entrepreneurship and aspire to build my career in that field.
 
 - 🔭 I’m currently looking for new grad software engineering roles starting Spring 2025.
-- 🌱 I’m currently exploring Distributed Systems.
+- 🌱 I’m currently building a private GenAI infra on AWS.
 - 👨‍💻 Check out my [website](https://adityaboddepalli.com)
 - 📫 How to reach me: adityaboddepalli@outlook.com
 - ⚡ Fun fact: I am a polyglot
