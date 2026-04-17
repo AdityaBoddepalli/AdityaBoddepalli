@@ -2,7 +2,6 @@
 
 I am Aditya, Computer Science graudate from Northeastern University. My primary interests lie in Cloud Computing, Backend Systems, and Artificial Intelligence; nonetheless I am excited to learn about any new technologies and developments in the field of CS. Furthermore, I am passionate about consumer technology and entrepreneurship and aspire to build my career in that field.
 
-- 🔭 I’m currently building the ultimate language practice system.
 - 👨‍💻 Check out my [website](https://adityaboddepalli.com)
 - 📫 How to reach me: adityaboddepalli@outlook.com
 - ⚡ Fun fact: I am a polyglot
